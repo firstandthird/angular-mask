@@ -1,0 +1,25 @@
+{
+  "name": "angular-mask",
+  "description": "Angular directive for masks on input fields",
+  "version": "0.0.1",
+  "homepage": "https://github.com/firstandthird/angular-mask/",
+  "license": "MIT",
+  "copyright": "First + Third",
+  "main": "dist/angular-mask.js",
+  "dependencies": {
+    "mask": "~0.0.1",
+    "angular": "~1.2.9"
+  },
+  "devDependencies": {
+    "assert": "*",
+    "blanket": "*"
+  },
+  "ignore": [
+    "test",
+    "example",
+    "lib",
+    "Gruntfile.js",
+    "package.json",
+    "grunt"
+  ]
+}
